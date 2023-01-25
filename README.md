@@ -1,4 +1,4 @@
-# Information Services program: java-web-api-requests
+# Information Services: java-web-api-requests
 
 This repository contains a Java program that existing services on the web to obtain this information for your users.
 
